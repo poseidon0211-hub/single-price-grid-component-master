@@ -35,8 +35,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: <a href="https://poseidon0211-hub.github.io/single-price-grid-component-master/" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- https://poseidon0211-hub.github.io/single-price-grid-component-master/
 
 ## My process
 
