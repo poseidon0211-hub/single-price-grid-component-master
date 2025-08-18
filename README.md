@@ -37,6 +37,8 @@ Users should be able to:
 
 - Solution URL: <a href="https://poseidon0211-hub.github.io/single-price-grid-component-master/" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://silly-fenglisu-42439c.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Live Site URL:[Live Site](https://silly-fenglisu-42439c.netlify.app/) {target="_blank"}
+
 
 
 
